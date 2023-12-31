@@ -12,9 +12,10 @@ I'm DJ Mountney/twk3/twkie, a Canadian full stack developer with a passion for d
 ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/React-45b8d8?logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 ![arm](https://img.shields.io/badge/arm-45b8d8?logo=arm&logoColor=white)
@@ -33,8 +34,8 @@ I'm DJ Mountney/twk3/twkie, a Canadian full stack developer with a passion for d
 
 | Project | Desc | Role | Links |
 | ------- | ---- | ---- | ----- |
+| [ActualBudget](https://github.com/actualbudget/actual) |  local-first personal finance tool. | Community Maintainer | [Contributions](https://github.com/actualbudget/actual/pulls?q=is%3Apr+author%3Atwk3+is%3Aclosed) |
 | [GitLab](https://gitlab.com/gitlab-org/gitlab-foss) | open source end-to-end software development platform | Former Team Member | [1000+ Contributions](https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&state=merged&author_username=twk3) |
-| [ActualBudget](https://github.com/actualbudget/actual) |  local-first personal finance tool. | Community Contributor | [Contributions](https://github.com/actualbudget/actual/pulls?q=is%3Apr+author%3Atwk3+is%3Aclosed) |
 | [O2Sleep](https://gitlab.com/twkie/o2-sleep) | Garmin Connect IQ Application that monitors heart-rate and oxygen saturation | Author | |
 | Helix Swarm | Free code review tool for Perforce | Former Team Member | |
 
